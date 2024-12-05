@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/AJ PYTHON/AJ_PYTHON_TXT_LEECH",
+    "repository": "https://github.com/AJ-PYTHON/AJ_PYTHON_TXT_LEECH",
     "success_url": "https://t.me/Nobody_015",
     "stack": "heroku-22",
     "env": {
